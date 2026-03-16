@@ -1,14 +1,5 @@
-Sim, **está 100% no formato Markdown**.
 
-O bloco de texto que enviei anteriormente usa a sintaxe completa do Markdown (títulos com `#`, listas com `*`, negrito com `**` e blocos de código com `````). Quando você copia esse conteúdo e cola dentro de um arquivo chamado `README.md` no seu GitHub ou VS Code, ele será renderizado automaticamente com toda a formatação visual (negritos, ícones, tabelas e links).
-
-Para que não reste dúvidas, preparei abaixo uma **versão ultra detalhada**, incluindo os novos processos de **Persistência JSON** e **Criptografia**, garantindo que toda a explicação técnica esteja dentro da estrutura Markdown.
-
----
-
-### 📄 Copie o conteúdo abaixo para o seu `README.md`:
-
-```markdown
+```
 # 🚀 Engenharia de Software com Python - Portfólio Completo
 
 Este repositório contém uma coleção de aplicações robustas que demonstram competências em **Lógica de Programação**, **Desenvolvimento de Jogos**, **Segurança de Dados** e **Interfaces Gráficas (GUI)**.
