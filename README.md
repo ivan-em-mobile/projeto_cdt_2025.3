@@ -1,3 +1,6 @@
+# 🚀 Código da Tansformação com Python - Portfólio Completo
+
+Este repositório contém uma coleção de aplicações robustas que demonstram competências em **Lógica de Programação**, **Desenvolvimento de Jogos**, **Segurança de Dados** e **Interfaces Gráficas (GUI)**.
 ---
 
 # 📑 Documentação de Projetos: Propósitos e Funcionalidades
